@@ -390,6 +390,7 @@ header {
     flex-direction: column-reverse;
     justify-content: flex-end;
     height: 85vh;
+    min-height: 770px;
   }
 
   
