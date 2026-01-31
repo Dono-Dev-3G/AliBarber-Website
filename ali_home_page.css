@@ -606,8 +606,15 @@ header {
     line-height: 2em;
   }
 
+  .presentation-div {
+    height: 100vh;
+    margin-bottom: 80px;
+  }
+
   .pres-pic-div img {
-    max-width: 500px;
+    max-width: 850px;
+    min-width: 800px;
+    width: 65%;
     margin-bottom: 60px;
   }
 }
