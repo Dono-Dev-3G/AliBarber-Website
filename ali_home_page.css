@@ -599,6 +599,10 @@ header {
 }
 
 @media (min-width: 1025px) {
+
+  .about-sec {
+    min-height: 1650px;
+  }
   
   .pres-text-div {
     padding-left: 17.5%;
@@ -609,6 +613,7 @@ header {
   .presentation-div {
     height: 100vh;
     margin-bottom: 80px;
+    min-height: 900px;
   }
 
   .pres-pic-div img {
