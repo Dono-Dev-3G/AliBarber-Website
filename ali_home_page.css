@@ -329,6 +329,10 @@ header {
   text-decoration: none;
 }
 
+.hidden {
+  display: none;
+}
+
 
 .book-link {
   color: var(--brick-red);
